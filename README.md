@@ -32,4 +32,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fruitpal.git
+  [ git clone https://github.com/your-username/fruitpal.git](https://github.com/sirx2713/FruitPal.git)
